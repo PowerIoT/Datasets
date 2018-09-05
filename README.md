@@ -1,5 +1,8 @@
 # Datasets
 Solarlogger, weather and cloud image datasets
+* Epoch-time vs SumPac,  Epoch time dediğim (unix time)[https://tr.wikipedia.org/wiki/Unix_zaman] SumPac ise toplam üretilen ac güç.
+
+
 ## Solar-logger dataset
 ### Done
 * 15.03.2018 - 22.08.2018 dataları tamam. Eksik dataları şu şekilde sınıflandırdım. 
