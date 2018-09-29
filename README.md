@@ -12,7 +12,7 @@ Solarlogger, weather and cloud image datasets
   
  ## API Weather dataları
  * [Darksky API](https://darksky.net/forecast/40.7127,-74.0059/us12/en) adresini kullandım. Kullanıcı hesabını açtım. Data başına 10000 data noktası 1$. Datayı çekmeyle alakalı bir jupyter notebook hazırladım ihtiyaca göre çekilebilir. API key jupyter notebookta var. 
- * Şu anki datalarla ilgili bir sorun var. Kuruma mail attım. Bir daha bütün datayı çekmek gerekecek. Dolarları Murat hoca ödüyor so np.
+ * Şu anki datalarla ilgili bir sorun var. Kuruma mail attım. Bir daha bütün datayı çekmek gerekecek.
  
  ## Cloud Image
  * Örnek resimleri ekledim. Şu an düzenli çekemiyoruz hardware hazır olmadığından. Hardware konusunda ilerlediğimizde yine bu repoda depolarız.
